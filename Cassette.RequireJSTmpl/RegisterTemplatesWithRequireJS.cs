@@ -10,16 +10,18 @@ namespace Cassette.HtmlTemplates
     {
         readonly RegisterTemplateWithRequireJS.Factory createAssetTransformer;
         readonly IJsonSerializer serializer;
+        readonly RequireJSTmplSettings settings;
 
-        public RegisterTemplatesWithRequireJS(RegisterTemplateWithRequireJS.Factory createAssetTransformer, IJsonSerializer serializer)
+        public RegisterTemplatesWithRequireJS(RegisterTemplateWithRequireJS.Factory createAssetTransformer, IJsonSerializer serializer, RequireJSTmplSettings settings)
         {
             this.createAssetTransformer = createAssetTransformer;
             this.serializer = serializer;
+            this.settings = settings;
         }
 
         protected override IAssetTransformer CreateAssetTransformer(HtmlTemplateBundle bundle)
         {
-            return createAssetTransformer(bundle, this.serializer);
+            return createAssetTransformer(bundle, this.serializer, this.settings);
         }
     }
 }

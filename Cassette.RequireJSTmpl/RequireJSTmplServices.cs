@@ -8,6 +8,8 @@ namespace Cassette.HtmlTemplates
     {
         public void Configure(TinyIoCContainer container)
         {
+            container.Register<RequireJSTmplSettings>().AsSingleton();
+
             container
                 .Register(typeof(IBundlePipeline<HtmlTemplateBundle>), typeof(RequireJSTmplPipeline))
                 .AsMultiInstance();
