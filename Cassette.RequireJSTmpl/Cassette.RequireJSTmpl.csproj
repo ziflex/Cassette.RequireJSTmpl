@@ -7,7 +7,7 @@
     <ProjectGuid>{27C62115-FA38-48CB-82CC-03C18FDBF8C0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Cassette.RequireJSTmpl</RootNamespace>
+    <RootNamespace>Cassette.HtmlTemplates</RootNamespace>
     <AssemblyName>Cassette.RequireJSTmpl</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
