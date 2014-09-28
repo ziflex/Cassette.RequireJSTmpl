@@ -1,0 +1,10 @@
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\bin\Debug\Cassette.RequireJSTmpl.dll
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\bin\Debug\Cassette.RequireJSTmpl.pdb
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\bin\Debug\AjaxMin.dll
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\bin\Debug\Cassette.dll
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\bin\Debug\Cassette.Views.dll
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\bin\Debug\Cassette.xml
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\bin\Debug\Cassette.Views.xml
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\obj\Debug\Cassette.RequireJSTmpl.csprojResolveAssemblyReference.cache
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\obj\Debug\Cassette.RequireJSTmpl.dll
+C:\Projects\Cassette.RequireJSTmpl\Cassette.RequireJSTmpl\obj\Debug\Cassette.RequireJSTmpl.pdb
